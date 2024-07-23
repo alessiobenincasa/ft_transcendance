@@ -1,6 +1,6 @@
 # ft_transcendance
 
-FT\_Transcendence Surprise
+FT\_Transcendence
 =========================
 
 A comprehensive web application project focused on enhancing gaming experiences through innovative features, security, and data-driven elements.
@@ -19,7 +19,7 @@ Table of Contents
 Project Overview
 ----------------
 
-FT\_Transcendence Surprise is a web application project that offers a variety of gaming experiences, user authentication, and cybersecurity measures. The project is designed to provide users with a secure, engaging, and customizable gaming platform.
+FT\_Transcendence is a web application project that offers a variety of gaming experiences, user authentication, and cybersecurity measures. The project is designed to provide users with a secure, engaging, and customizable gaming platform.
 
 Features
 --------
@@ -63,7 +63,7 @@ git clone https://github.com/your-username/ft_transcendence_surprise.git
 ```
 1. Install dependencies:
 ```bash
-cd ft_transcendence_surprise
+cd ft_transcendence
 npm install
 ```
 1. Configure environment variables:
@@ -95,4 +95,4 @@ This project is licensed under the [MIT License](LICENSE).
 Contact
 -------
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact alben2992@outlook.fr
