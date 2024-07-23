@@ -59,7 +59,7 @@ Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ft_transcendence_surprise.git
+git@github.com:alessiobenincasa/ft_transcendance.git
 ```
 1. Install dependencies:
 ```bash
