@@ -1,98 +1,48 @@
-# ft_transcendance
+# ft_transcendence
 
-FT\_Transcendence
-=========================
+Postgresql with django : https://docs.djangoproject.com/fr/5.0/intro/tutorial02/
 
-A comprehensive web application project focused on enhancing gaming experiences through innovative features, security, and data-driven elements.
+## To do : 
+### Mandatory global 
+	- Tournament
 
-Table of Contents
------------------
+### User Management
 
-* [Project Overview](#project-overview)
-* [Features](#features)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+	- Passwords mut be encrypted
+	- Users can update their info
+	- Users can upload an avatar (bu hey have a default one if none is provided)
+	- Add a friend and see user status (online or offline) is a mandatory part of the module.
+	- User profile must display stats (wins, losses,...)
+	- Users have a match history, including dates and other relevant details
 
-Project Overview
-----------------
+	- User's avatar display size must be set + can be changed + default avatar must be set by JS if backend->none
 
-FT\_Transcendence is a web application project that offers a variety of gaming experiences, user authentication, and cybersecurity measures. The project is designed to provide users with a secure, engaging, and customizable gaming platform.
+	- User must be able to delete its account
 
-Features
---------
 
-### Authentication System
+### Miscellaneous 
 
-* Secure user sign-in with authentication tokens and user information exchange.
-* User-friendly login and authorization flows adhering to best practices and security standards.
+	- settings.py -> CsRF_TRUSTED requiers https://localhost  format instead of localhost
 
-### Gameplay and User Experience
+	- settings.py -> SECRET_KEY must be replaced by SECRET_KEY = os.environ["SECRET_KEY"]
+		(to create a new key : ```echo "export SECRET_KEY='$(openssl rand -hex 40)'" > .DJANGO_SECRET_KEY```
+		then copy it in .env file)
 
-* Remote players: Play with distant players on separate computers.
-* Multiple players: Support for more than two players with live control.
-* New game with user history and matchmaking: Introduce a new game, track user gameplay statistics, and facilitate matchmaking.
-* Game customization options: Offer power-ups, attacks, different maps, and other customization features for all games.
-* Live chat: Send direct messages, block users, invite users to play, receive tournament notifications, and access other players' profiles.
+	- CORS ?
 
-### AI-Algo
+	- auth/admin.py -> remove once project is done
+	- Remove admin/ when finished ?
 
-* AI opponent: Introduce an AI player that provides a challenging and engaging gameplay experience without relying on the A\* algorithm.
-* User and game stats dashboards: Display user and game session statistics through user-friendly dashboards.
+	- When project finished, remove dir /backend/django/authentication/management
 
-### Cybersecurity
 
-* WAF/ModSecurity with hardened configuration and HashiCorp Vault for secrets management: Enhance security infrastructure with robust protection measures.
-* GDPR compliance options: Enable user anonymization, local data management, and account deletion.
-* Two-factor authentication (2FA) and JSON Web Tokens (JWT): Strengthen user account security and enhance authentication and authorization.
 
-### DevOps
+## Dictionary
 
-* Infrastructure setup with ELK (Elasticsearch, Logstash, Kibana) for log management: Establish a powerful log management and analysis system.
-* Monitoring system: Set up a comprehensive monitoring system using Prometheus and Grafana.
-* Designing the backend as microservices: Enhance the system's architecture with a microservices design approach.
+CORS = Cross-Origin Resource Sharing
 
-Installation
-------------
+CSRF = Cross-Site Request Forgery
 
-1. Clone the repository:
-```bash
-git@github.com:alessiobenincasa/ft_transcendance.git
-```
-1. Install dependencies:
-```bash
-cd ft_transcendence
-npm install
-```
-1. Configure environment variables:
-```bash
-cp .env.example .env
-```
-Edit the `.env` file to include your specific configuration.
+REST = Representational State Transfer
 
-1. Build and run the project:
-```bash
-npm run build
-npm start
-```
-Usage
------
-
-Access the web application at `http://localhost:3000` and explore the various features and games.
-
-Contributing
-------------
-
-Contributions are welcome! Please submit a pull request with your proposed changes. Make sure to include relevant documentation and test cases.
-
-License
--------
-
-This project is licensed under the [MIT License](LICENSE).
-
-Contact
--------
-
-For any questions or inquiries, please contact alben2992@outlook.fr
+URI = Uniform Resource Identifier

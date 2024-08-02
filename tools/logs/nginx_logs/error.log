@@ -1,0 +1,245 @@
+2024/08/02 13:09:02 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:09:03 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:09:03 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:09:04 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:09:05 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:09:06 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:09:10 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:09:16 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:09:29 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:09:55 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:10:46 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:11:47 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:12:47 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:13:47 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:14:47 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:15:39 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:15:40 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:15:40 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:15:41 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:15:42 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:15:43 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:15:47 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:15:53 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:21:19 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:21:19 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:21:20 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:21:20 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:21:21 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:21:23 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:21:26 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:21:33 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:21:46 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:22:12 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:23:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:24:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:24:22 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:24:23 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:24:23 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:24:24 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:24:25 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:24:27 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:24:30 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:24:36 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:24:49 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:25:15 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:26:07 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:27:07 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:28:07 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:29:17 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:29:17 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:29:17 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:29:18 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:29:19 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:29:21 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/frontend_selfsigned.crt": BIO_new_file() failed (SSL: error:80000002:system library::No such file or directory:calling fopen(/etc/nginx/ssl/frontend_selfsigned.crt, r) error:10000080:BIO routines::no such file)
+2024/08/02 13:29:24 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:29:31 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:29:44 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:30:09 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:31:01 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:32:01 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:33:01 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:34:01 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:35:01 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:36:02 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:37:02 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:38:02 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:39:02 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:40:02 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:41:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:42:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:43:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:44:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:45:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:46:03 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:47:04 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:48:04 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:49:04 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:50:04 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:51:04 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:52:05 [emerg] 1#1: host not found in upstream "backend:8000" in /etc/nginx/conf.d/default.conf:2
+2024/08/02 13:53:05 [notice] 1#1: using the "epoll" event method
+2024/08/02 13:53:05 [notice] 1#1: nginx/1.27.0
+2024/08/02 13:53:05 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/02 13:53:05 [notice] 1#1: OS: Linux 5.15.0-117-generic
+2024/08/02 13:53:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/02 13:53:05 [notice] 1#1: start worker processes
+2024/08/02 13:53:05 [notice] 1#1: start worker process 28
+2024/08/02 13:53:05 [notice] 1#1: start worker process 29
+2024/08/02 13:53:05 [notice] 1#1: start worker process 30
+2024/08/02 13:53:05 [notice] 1#1: start worker process 31
+2024/08/02 13:53:05 [notice] 1#1: start worker process 32
+2024/08/02 13:53:05 [notice] 1#1: start worker process 33
+2024/08/02 13:53:05 [notice] 1#1: start worker process 34
+2024/08/02 13:53:05 [notice] 1#1: start worker process 35
+2024/08/02 13:53:05 [notice] 1#1: start worker process 36
+2024/08/02 13:53:05 [notice] 1#1: start worker process 37
+2024/08/02 13:53:05 [notice] 1#1: start worker process 38
+2024/08/02 13:53:05 [notice] 1#1: start worker process 39
+2024/08/02 13:53:05 [notice] 1#1: start worker process 40
+2024/08/02 13:53:05 [notice] 1#1: start worker process 41
+2024/08/02 13:53:05 [notice] 1#1: start worker process 42
+2024/08/02 13:53:05 [notice] 1#1: start worker process 43
+2024/08/02 13:53:05 [notice] 1#1: start worker process 44
+2024/08/02 13:53:05 [notice] 1#1: start worker process 45
+2024/08/02 13:53:05 [notice] 1#1: start worker process 46
+2024/08/02 13:53:05 [notice] 1#1: start worker process 47
+2024/08/02 13:53:41 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "GET /authentication/status/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/status/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:54:22 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "POST /authentication/login/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/login/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:54:25 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "POST /authentication/login/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/login/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:54:26 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "POST /authentication/login/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/login/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:54:26 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "POST /authentication/login/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/login/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:54:37 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "POST /authentication/register/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/register/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:54:39 [error] 32#32: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "POST /authentication/register/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/register/", host: "localhost:5555", referrer: "https://localhost:5555/"
+2024/08/02 13:58:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/02 13:58:02 [notice] 29#29: gracefully shutting down
+2024/08/02 13:58:02 [notice] 28#28: gracefully shutting down
+2024/08/02 13:58:02 [notice] 31#31: gracefully shutting down
+2024/08/02 13:58:02 [notice] 33#33: gracefully shutting down
+2024/08/02 13:58:02 [notice] 34#34: gracefully shutting down
+2024/08/02 13:58:02 [notice] 30#30: gracefully shutting down
+2024/08/02 13:58:02 [notice] 32#32: gracefully shutting down
+2024/08/02 13:58:02 [notice] 29#29: exiting
+2024/08/02 13:58:02 [notice] 28#28: exiting
+2024/08/02 13:58:02 [notice] 31#31: exiting
+2024/08/02 13:58:02 [notice] 37#37: gracefully shutting down
+2024/08/02 13:58:02 [notice] 38#38: gracefully shutting down
+2024/08/02 13:58:02 [notice] 33#33: exiting
+2024/08/02 13:58:02 [notice] 36#36: gracefully shutting down
+2024/08/02 13:58:02 [notice] 34#34: exiting
+2024/08/02 13:58:02 [notice] 39#39: gracefully shutting down
+2024/08/02 13:58:02 [notice] 30#30: exiting
+2024/08/02 13:58:02 [notice] 43#43: gracefully shutting down
+2024/08/02 13:58:02 [notice] 32#32: exiting
+2024/08/02 13:58:02 [notice] 42#42: gracefully shutting down
+2024/08/02 13:58:02 [notice] 41#41: gracefully shutting down
+2024/08/02 13:58:02 [notice] 44#44: gracefully shutting down
+2024/08/02 13:58:02 [notice] 37#37: exiting
+2024/08/02 13:58:02 [notice] 38#38: exiting
+2024/08/02 13:58:02 [notice] 46#46: gracefully shutting down
+2024/08/02 13:58:02 [notice] 36#36: exiting
+2024/08/02 13:58:02 [notice] 47#47: gracefully shutting down
+2024/08/02 13:58:02 [notice] 39#39: exiting
+2024/08/02 13:58:02 [notice] 43#43: exiting
+2024/08/02 13:58:02 [notice] 42#42: exiting
+2024/08/02 13:58:02 [notice] 41#41: exiting
+2024/08/02 13:58:02 [notice] 44#44: exiting
+2024/08/02 13:58:02 [notice] 46#46: exiting
+2024/08/02 13:58:02 [notice] 47#47: exiting
+2024/08/02 13:58:02 [notice] 30#30: exit
+2024/08/02 13:58:02 [notice] 31#31: exit
+2024/08/02 13:58:02 [notice] 28#28: exit
+2024/08/02 13:58:02 [notice] 32#32: exit
+2024/08/02 13:58:02 [notice] 34#34: exit
+2024/08/02 13:58:02 [notice] 33#33: exit
+2024/08/02 13:58:02 [notice] 29#29: exit
+2024/08/02 13:58:02 [notice] 45#45: gracefully shutting down
+2024/08/02 13:58:02 [notice] 40#40: gracefully shutting down
+2024/08/02 13:58:02 [notice] 35#35: gracefully shutting down
+2024/08/02 13:58:02 [notice] 45#45: exiting
+2024/08/02 13:58:02 [notice] 47#47: exit
+2024/08/02 13:58:02 [notice] 44#44: exit
+2024/08/02 13:58:02 [notice] 42#42: exit
+2024/08/02 13:58:02 [notice] 43#43: exit
+2024/08/02 13:58:02 [notice] 40#40: exiting
+2024/08/02 13:58:02 [notice] 41#41: exit
+2024/08/02 13:58:02 [notice] 38#38: exit
+2024/08/02 13:58:02 [notice] 46#46: exit
+2024/08/02 13:58:02 [notice] 37#37: exit
+2024/08/02 13:58:02 [notice] 35#35: exiting
+2024/08/02 13:58:02 [notice] 35#35: exit
+2024/08/02 13:58:02 [notice] 45#45: exit
+2024/08/02 13:58:02 [notice] 40#40: exit
+2024/08/02 13:58:02 [notice] 36#36: exit
+2024/08/02 13:58:02 [notice] 39#39: exit
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2024/08/02 13:58:02 [notice] 1#1: worker process 31 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2024/08/02 13:58:02 [notice] 1#1: worker process 42 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 46
+2024/08/02 13:58:02 [notice] 1#1: worker process 28 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 46 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 47 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2024/08/02 13:58:02 [notice] 1#1: worker process 38 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 45
+2024/08/02 13:58:02 [notice] 1#1: worker process 44 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 45 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 43
+2024/08/02 13:58:02 [notice] 1#1: worker process 43 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/08/02 13:58:02 [notice] 1#1: worker process 30 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 41
+2024/08/02 13:58:02 [notice] 1#1: worker process 33 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 32 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 35 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 41 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2024/08/02 13:58:02 [notice] 1#1: worker process 29 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 40 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 36 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: worker process 39 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/02 13:58:02 [notice] 1#1: worker process 37 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: signal 29 (SIGIO) received
+2024/08/02 13:58:02 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2024/08/02 13:58:02 [notice] 1#1: worker process 34 exited with code 0
+2024/08/02 13:58:02 [notice] 1#1: exit
+2024/08/02 14:05:36 [notice] 1#1: using the "epoll" event method
+2024/08/02 14:05:36 [notice] 1#1: nginx/1.27.0
+2024/08/02 14:05:36 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/02 14:05:36 [notice] 1#1: OS: Linux 5.15.0-117-generic
+2024/08/02 14:05:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/02 14:05:36 [notice] 1#1: start worker processes
+2024/08/02 14:05:36 [notice] 1#1: start worker process 28
+2024/08/02 14:05:36 [notice] 1#1: start worker process 29
+2024/08/02 14:05:36 [notice] 1#1: start worker process 30
+2024/08/02 14:05:36 [notice] 1#1: start worker process 31
+2024/08/02 14:05:36 [notice] 1#1: start worker process 32
+2024/08/02 14:05:36 [notice] 1#1: start worker process 33
+2024/08/02 14:05:36 [notice] 1#1: start worker process 34
+2024/08/02 14:05:36 [notice] 1#1: start worker process 35
+2024/08/02 14:05:36 [notice] 1#1: start worker process 36
+2024/08/02 14:05:36 [notice] 1#1: start worker process 37
+2024/08/02 14:05:36 [notice] 1#1: start worker process 38
+2024/08/02 14:05:36 [notice] 1#1: start worker process 39
+2024/08/02 14:05:36 [notice] 1#1: start worker process 40
+2024/08/02 14:05:36 [notice] 1#1: start worker process 41
+2024/08/02 14:05:36 [notice] 1#1: start worker process 42
+2024/08/02 14:05:36 [notice] 1#1: start worker process 43
+2024/08/02 14:05:36 [notice] 1#1: start worker process 44
+2024/08/02 14:05:36 [notice] 1#1: start worker process 45
+2024/08/02 14:05:36 [notice] 1#1: start worker process 46
+2024/08/02 14:05:36 [notice] 1#1: start worker process 47
+2024/08/02 14:05:51 [error] 29#29: *2 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 172.18.0.1, server: localhost, request: "GET /authentication/status/ HTTP/1.1", upstream: "https://172.18.0.3:8000/authentication/status/", host: "localhost:5555", referrer: "https://localhost:5555/"
