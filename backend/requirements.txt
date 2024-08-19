@@ -1,0 +1,17 @@
+# Django + CORS
+Django
+django-cors-headers
+
+# POSTGRESQL
+psycopg[c]
+
+# GUNiCORN
+gunicorn
+
+# JWT
+djangorestframework
+djangorestframework-simplejwt
+pyjwt
+
+# OTP
+pyotp
