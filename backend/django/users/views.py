@@ -7,6 +7,8 @@ from django.conf import settings   # upload_avatar
 from django.core.files.storage import default_storage  # upload_avatar
 from django.core.exceptions import ValidationError  # UserProfileView -> post
 from django.utils import timezone # Regular ping
+from django.core.exceptions import ValidationError  #check email format
+from django.core.validators import validate_email  #check email format
 from django.views import View
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
@@ -41,15 +43,19 @@ class UserProfileView(View):
 		data = request.POST
 
 		if 'username' in data:
+			if len(data['username']) > 30 or len(data['username']) < 3:
+				return JsonResponse({"error": "username must have 3 to 30 characters"}, status=400)
 			if SiteUser.objects.filter(username=data['username']).exclude(username=profile_username).exists():
 				return JsonResponse({"error": "already in use"}, status=400)
-				message = "already in use"
 			user.username = data['username']
 
 		if 'email' in data:
+			try:
+				validate_email(data['email'])
+			except ValidationError:
+				return JsonResponse({"error": "Invalid email format"}, status=400)
 			if SiteUser.objects.filter(email=data['email']).exclude(email=user.email).exists():
 				return JsonResponse({"error": "already in use"}, status=400)
-				message = "already in use"
 			user.email = data['email']
 
 		try:

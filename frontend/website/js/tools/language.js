@@ -56,7 +56,12 @@ const translations =
 		otp_verify_cta: 'Verify',
 		otp: 'OTP',
 		invalidotp: 'Invalid OTP',
-		otpnotmandatory: 'You can choose not to use double authentication by leaving this page.'
+		otpnotmandatory: 'You can choose not to use double authentication by leaving this page.',
+		ignoreotp: 'Ignore OTP',
+		player1: 'Player 1',
+		player2: 'Player 2',
+		player3: 'Player 3',
+		player4: 'Player 4',
 	},
 	fr: {
 		profile: 'Profil',
@@ -114,7 +119,12 @@ const translations =
 		otp_verify_cta: 'Vérifier',
 		otp: 'OTP',
 		invalidotp: 'OTP invalide',
-		otpnotmandatory: 'Vous pouvez choisir de ne pas utiliser l\'authentification à deux facteurs en quittant cette page.'
+		otpnotmandatory: 'Vous pouvez choisir de ne pas utiliser l\'authentification à deux facteurs en quittant cette page.',
+		ignoreotp: 'Ignorer l\'OTP',
+		player1: 'Joueur 1',
+		player2: 'Joueur 2',
+		player3: 'Joueur 3',
+		player4: 'Joueur 4'
 	},
 	ch: {
 		profile: '个人资料',
@@ -172,7 +182,12 @@ const translations =
 		otp_verify_cta: '验证',
 		otp: 'OTP',
 		invalidotp: '无效的OTP',
-		otpnotmandatory: '您可以选择离开此页面而不使用双因素认证。'
+		otpnotmandatory: '您可以选择离开此页面而不使用双因素认证。',
+		ignoreotp: '忽略OTP',
+		player1: '玩家 1',
+		player2: '玩家 2',
+		player3: '玩家 3',
+		player4: '玩家 4'
 	},
 	jp: {
 		profile: 'プロフィール',
@@ -230,7 +245,12 @@ const translations =
 		otp_verify_cta: '確認する',
 		otp: 'OTP',
 		invalidotp: '無効なOTP',
-		otpnotmandatory: 'このページを離れることで二段階認証を使用しないことを選択できます。'
+		otpnotmandatory: 'このページを離れることで二段階認証を使用しないことを選択できます。',
+		ignoreotp: 'OTPを無視する',
+		player1: 'プレイヤー 1',
+		player2: 'プレイヤー 2',
+		player3: 'プレイヤー 3',
+		player4: 'プレイヤー 4'
 	}
 };
 

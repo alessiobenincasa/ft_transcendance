@@ -9,11 +9,6 @@ while true; do
     fi
 done
 
-# Adds a seperator in logfile to see when the container is re-created
-if [ -f /logs/gunicorn.log ]; then
-	echo "\n----------- SERVER LAUNCH ------------\n" >> /logs/gunicorn.log
-fi
-
 echo "\e[33mCreating migration files\e[0m"
 python manage.py makemigrations users
 
@@ -26,6 +21,4 @@ gunicorn --bind 0.0.0.0:$BACK_PORT \
 			--certfile=$BACK_SSL_CERT \
 			--keyfile=$BACK_SSL_KEY \
 			ft_transcendence.wsgi:application \
-			--log-file /logs/gunicorn.log \
-			--log-level debug
 
